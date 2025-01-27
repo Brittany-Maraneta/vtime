@@ -28,7 +28,6 @@
       </div>
     </div>
 
-    <!-- Show the heart-shaped message if all selections are made -->
     <div v-if="allOptionsSelected" class="message-popup">
       <div class="heart-message">
         <p>Congratulations, you planned your perfect valentine!</p>
